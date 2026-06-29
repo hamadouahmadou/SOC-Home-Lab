@@ -1,0 +1,1 @@
+This folder contains detections for the SOC Home Lab.

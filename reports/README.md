@@ -1,0 +1,1 @@
+This folder contains incident reports and investigation reports for the SOC Home Lab.
