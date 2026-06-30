@@ -12,14 +12,14 @@ This lab will continue growing throughout my cybersecurity studies and will even
 
 # Objectives
 
--Built a professional SOC Home Lab
--Learn linux administration
--Deply wazuh SIEM
--Monitor windows and linux logs
--Simulate cyber attacks
--Investigate security alerts
--Practice incidence response
--Learn MITRE ATT&CK Techniques
+- Built a professional SOC Home Lab
+- Learn linux administration
+- Deply wazuh SIEM
+- Monitor windows and linux logs
+- Simulate cyber attacks
+- Investigate security alerts
+- Practice incidence response
+- Learn MITRE ATT&CK Techniques
 
 ---
 
