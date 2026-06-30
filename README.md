@@ -36,14 +36,14 @@ This lab will continue growing throughout my cybersecurity studies and will even
 
 # Technologies
 
--Ubuntu Server
--Wazuh 
--Kali linux
--Windows 11
--Oracle Virtual Box
--OpenSSH
--Linux
--Networking
+- Ubuntu Server
+- Wazuh 
+- Kali linux
+- Windows 11
+- Oracle Virtual Box
+- OpenSSH
+- Linux
+- Networking
 
 ---
 
@@ -51,36 +51,36 @@ This lab will continue growing throughout my cybersecurity studies and will even
 
 ## Phase 1
 
--Installed Ubuntu Server
--Configured Networking
--Installed OpenSSH
--Updated Ubuntu
--Created Github Repository
+- Installed Ubuntu Server
+- Configured Networking
+- Installed OpenSSH
+- Updated Ubuntu
+- Created Github Repository
 
 ---
 
 ## Upcoming phases
 
--Install wazuh
--Configure Windows VM
--Install Sysmon
--Connect wazuh agent
--Connect Kali Linux
--Threat Hunting
--Incident Response
--Sigma Rules
--MITRE ATT&CK Mapping
+- Install wazuh
+- Configure Windows VM
+- Install Sysmon
+- Connect wazuh agent
+- Connect Kali Linux
+- Threat Hunting
+- Incident Response
+- Sigma Rules
+- MITRE ATT&CK Mapping
 
 ---
 
 # Skills Learned
 
--Linux Administration
--Virtualization
--Networking
--SSH
--System Installation
--Documentation
+- Linux Administration
+- Virtualization
+- Networking
+- SSH
+- System Installation
+- Documentation
 
 ---
 
@@ -99,12 +99,12 @@ SOC-Home-Lab/
 
 # Future Improvements
 
--Active directory
--Threat Hunting
--Digital Forensics
--Malware Analysis
--Python Automation
--Cloud Security
+- Active directory
+- Threat Hunting
+- Digital Forensics
+- Malware Analysis
+- Python Automation
+- Cloud Security
 
 ---
 
